@@ -4,3 +4,15 @@
 2026-06-23 09:00:20,456 ERROR Upstream connection refused: 127.0.0.1:9001
 2026-06-23 09:00:35,889 INFO Forwarding /health -> 127.0.0.1:9001
 2026-06-23 09:00:35,890 ERROR Upstream connection refused: 127.0.0.1:9001
+2026-08-04 09:44:57,445 INFO Starting CloudNotes proxy
+2026-08-04 09:44:57,466 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9001
+2026-08-04 09:48:50,650 INFO Starting CloudNotes proxy
+2026-08-04 09:48:50,662 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9001
+2026-08-04 09:58:00,330 INFO Starting CloudNotes proxy
+2026-08-04 09:58:00,345 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9001
+2026-08-04 09:59:25,015 INFO Starting CloudNotes proxy
+2026-08-04 09:59:25,033 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9001
+2026-08-04 10:01:49,002 INFO Starting CloudNotes proxy
+2026-08-04 10:01:49,009 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9001
+2026-08-04 10:05:05,027 INFO Starting CloudNotes proxy
+2026-08-04 10:05:05,033 INFO Proxy listening on 0.0.0.0:8080 -> upstream 127.0.0.1:9000
